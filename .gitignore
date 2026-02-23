@@ -1,0 +1,27 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ambientes Virtuais (VENV)
+# Não queremos enviar as bibliotecas instaladas, apenas o código.
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos de Cache do Python
+# São arquivos criados automaticamente pelo Python para rodar mais rápido
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Arquivos de Variáveis de Ambiente
+# Onde você guardará suas chaves de API (como a da OpenAI ou Anthropic)
+# NUNCA envie este arquivo para o GitHub
+.env
+
+# Distribuição / Pacotes
+dist/
+build/
+*.egg-info/

@@ -1,0 +1,8 @@
+langchain
+lanchain-community
+langchain-ollama
+langchain-postgres
+langgraph
+psycopg2-binary
+python-dotenv
+beautifulsoup4
