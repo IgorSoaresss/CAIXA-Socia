@@ -18,7 +18,7 @@ class RagState(TypedDict):
 def retrieve(state: RagState):
     # Nó responsável apenas por buscar documentos relevantes
     print(f"🔎 Buscando contexto para: {state['question']}")
-    vectorstore = get_vectorstore
+    vectorstore = get_vectorstore()
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
     docs = retriever.invoke(state["question"])
     

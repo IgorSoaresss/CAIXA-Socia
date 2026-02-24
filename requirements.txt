@@ -1,5 +1,5 @@
 langchain
-lanchain-community
+langchain-community
 langchain-ollama
 langchain-postgres
 langgraph
