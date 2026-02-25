@@ -14,7 +14,7 @@ def ingest_data(urls=None, file_paths=None):
     if file_paths:
         for path in file_paths:
             print(f"🔄 Carregando Arquivo: {path}...")
-            loader = TextLoader(path)
+            loader = TextLoader(path, encoding="utf-8")
             docs.extend(loader.load())
 
     if not docs:
@@ -37,5 +37,5 @@ def ingest_data(urls=None, file_paths=None):
 
 if __name__ == "__main__":
     # Exemplo de uso: Ingestão da documentação do LangChain como teste
-    ingest_data(urls=["https://python.langchain.com/docs/introduction/"])
+    ingest_data(file_paths=["data/regras_bolsa_familia.txt"])
     
