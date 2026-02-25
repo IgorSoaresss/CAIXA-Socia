@@ -1,26 +1,30 @@
 TITULO: Guia do Bolsa Família 2024/2025
-FONTE: Ministério do Desenvolvimento e Assistência Social
+FONTE: Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
 
 QUEM TEM DIREITO:
 Para ter direito ao Bolsa Família, a principal regra é que a renda mensal por pessoa da família seja de até R$ 218,00. Isso significa que, se você somar o salário de todas as pessoas da casa e dividir pelo número de habitantes, o valor não pode ultrapassar R$ 218,00.
 
 COMO RECEBER:
+
 1. A família precisa estar inscrita no Cadastro Único (CadÚnico).
 2. Os dados no CadÚnico devem estar atualizados há menos de 2 anos.
 3. Se enquadrar na regra de renda limite.
 
 VALORES DO BENEFÍCIO:
-- Benefício de Renda de Cidadania: R$ 142,00 por pessoa.
-- Benefício Complementar: Garante que nenhuma família receba menos que R$ 600,00.
-- Benefício Primeira Infância: R$ 150,00 extra para cada criança de 0 a 6 anos.
-- Benefício Variável Familiar: R$ 50,00 extra para gestantes e crianças/adolescentes de 7 a 18 anos.
+
+* Benefício de Renda de Cidadania: R$ 142,00 por pessoa.
+* Benefício Complementar: Garante que nenhuma família receba menos que R$ 600,00.
+* Benefício Primeira Infância: R$ 150,00 extra para cada criança de 0 a 6 anos.
+* Benefício Variável Familiar: R$ 50,00 extra para gestantes e crianças/adolescentes de 7 a 18 anos.
 
 CALENDÁRIO DE PAGAMENTO:
 O pagamento é feito nos últimos 10 dias úteis de cada mês, seguindo o número final do NIS (Número de Identificação Social).
-- NIS final 1: recebe no 1º dia do calendário.
-- NIS final 0: recebe no último dia do calendário.
+
+* NIS final 1: recebe no 1º dia do calendário.
+* NIS final 0: recebe no último dia do calendário.
 
 CONDICIONALIDADES (DEVERES DA FAMÍLIA):
-- Manter crianças e adolescentes na escola com frequência mínima.
-- Fazer o acompanhamento pré-natal (no caso de gestantes).
-- Manter as carteiras de vacinação atualizadas.
+
+* Manter crianças e adolescentes na escola com frequência mínima.
+* Fazer o acompanhamento pré-natal (no caso de gestantes).
+* Manter as carteiras de vacinação atualizadas.
